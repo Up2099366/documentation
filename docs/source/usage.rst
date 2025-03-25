@@ -5,13 +5,13 @@ Usage
 
 Installation
 ------------
-To use FitFusion, it can be downloaded off of github:
+To use FitFusion, it can be downloaded off github:
 
-To view the github document follow this link:
+To view the file follow this link:
 ``https://github.com/Group-5B/Fit-fusion``
 
-Creating recipes
-----------------
+Creating user account
+----------------------
 
 To retrieve a list of random ingredients,
 you can use the ``lumache.get_random_ingredients()`` function:
