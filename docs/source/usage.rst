@@ -5,12 +5,10 @@ Usage
 
 Installation
 ------------
+To use FitFusion, it can be downloaded off of github:
 
-To use Lumache, first install it using pip:
-
-.. code-block:: console
-
-   (.venv) $ pip install lumache
+To view the github document follow this link:
+``https://github.com/Group-5B/Fit-fusion``
 
 Creating recipes
 ----------------
