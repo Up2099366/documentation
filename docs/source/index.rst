@@ -1,17 +1,11 @@
 Welcome to FitFusion
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+FitFusion is an app designed for students, to match with other gym goers based on their preferences (e.g. skills).
+The system has a messaging system to allow users to communicate with each other.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
 
 Contents
 --------
